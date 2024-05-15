@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IndiaTimes News App</string>
+    <string name="please_select_category">Please select category to see news</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="couldnt_reach_server">Could\'t connect to server, please check your internet connection.</string>
+
+</resources>
