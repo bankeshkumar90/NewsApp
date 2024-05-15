@@ -1,4 +1,4 @@
-Created news app to check latest news. You can filter news by category and check news in more details on tapping of it. Bookmark option not added yet.
+Created news app to check latest news. You can filter news by category and check news in more details on tapping of it. Bookmark option not added yet. As this is pretty straight forward application I have used  Jetpack compose, retrofit API, DI (Hilt), Room DB, Navigation and other latest android library. Feel free to provide any feedback.
 
 
 ![all](https://github.com/bankeshkumar90/NewsApp/assets/6511724/ef8971f8-cc83-42ab-b513-e5a5aecdccf8)
